@@ -1,0 +1,95 @@
+.bgimg{
+    background-color: bisque;
+    height: 150px;
+    width: 100%;
+}
+
+.fa-search{
+    text-align: center;
+}
+.dropdown{
+     background-color: whitesmoke !important;
+     color: white !important;
+     transition: 0.2s ease;
+}
+
+
+.btn2{
+    margin-top: 10px;
+    background: lawngreen !important;
+    color:whitesmoke !important;
+    border-radius: 0px;
+    border: none;
+    padding: 15px;
+}
+.dropdown-menu{
+    transition: 0.2s linear;
+    background-color: whitesmoke;
+    width: 200px;
+    border-radius: 0px;
+    box-shadow: -0px -0px whitesmoke; 
+}
+.dropdown-item{
+    color: whitesmoke;
+    width: 300px;
+    border-radius: 0%;
+    transition: 0.2s linear;
+}
+.dropdown-item:hover{
+    background-color: rgb(189, 178, 178) !important;
+    color: black !important;
+}
+.btn3{
+    background: lawngreen !important;
+    color:whitesmoke !important;
+    border-radius: 0px;
+    border: none;
+    padding: 10px;
+    margin-top: 0px;
+    margin-left: -25px;
+}
+.btn3 h5{
+    text-align: center;
+    color: white !important;
+    margin-top: 22px;
+    margin-left: 20px;
+}
+.fa-tag{
+    text-align: center;
+}
+
+.our button{
+    width: 180px;
+    height: 70px;
+    text-align: center;
+}
+.ourcard{
+    border-radius: 0px;
+}
+.ourcard img{
+    background-color: rgb(189, 178, 178) !important;
+    color: black !important;
+    transition: all .5s ease;
+}
+.ourcard:hover img{
+    transform: scale(1.2);
+}
+
+.mycard{
+    border-radius: 0px;
+}
+.mycard img{
+    height: 100%;
+    width: 200px;
+    background-color: rgb(189, 178, 178) !important;
+    color: black !important;
+    transition: all .5s ease;
+}
+.mycard:hover img{
+    transform: scale(1.1);
+}
+.form{
+    text-align: center;
+    height: 100px;
+
+}
